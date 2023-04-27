@@ -1,0 +1,33 @@
+
+{
+    "applicantName": "some data",
+    "address": "some data",
+    "date": "some data",
+    "place": "some data",
+    "dua": {
+        "drcId": "DRC/NOTICE/prop123/2/3",
+        "farUtilized": 100,
+        "drcUtilizationDetails": {
+            "landUse": "COMMERCIAL",
+            "areaType": "BUILT",
+            "roadWidth": 12,
+            "purchasableFar": 2,
+            "basicFar": 1,
+            "circleRateUtilization": 70
+        },
+        "locationInfo": {
+            "khasraOrPlotNo": "124",
+            "villageOrWard": "Kalyanpur",
+            "Tehsil": "Kanpur",
+            "district": "Kanpur"
+        }
+    },
+    "farAvailable": "some data",
+    "drcId": "some data",
+    "drcData": "some data",
+    "owners": {
+        "Owner1":"Shubham",
+        "Owner2":"Kunwar"
+
+    }
+}
