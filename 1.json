@@ -1,0 +1,14 @@
+{
+    "nameOfLandOwner": "John Doe",
+    "address": "123 Main Street, Anytown USA",
+    "areaTobeSurrendered": "100",
+    "plotNumber": "AB-123",
+    "ward": "5",
+    "tehsil": "ABC",
+    "district": "XYZ",
+    "masterPlanName": "ABC Master Plan",
+    "date": "19-04-2023",
+    "place": "kanpur",
+    "nameOfOwner": "John Doe",
+    "attachments":["aadhaar", "sajra"]
+}
