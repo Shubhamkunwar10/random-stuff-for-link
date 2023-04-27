@@ -1,0 +1,32 @@
+{
+    "duc": {
+        "farPermitted": 0,
+        "circleRateSurrendered": 0,
+        "owners": [],
+        "timeStamp": 0,
+        "tdrConsumed": 0,
+        "drcUtilizationDetails": {
+            "landUse": "NONE",
+            "areaType": "NONE",
+            "roadWidth": 0,
+            "purchasableFar": 0,
+            "basicFar": 0,
+            "circleRateUtilization": 0
+        },
+        "locationInfo": {
+            "khasraOrPlotNo": "124",
+            "villageOrWard": "Kalyanpur",
+            "Tehsil": "Kanpur",
+            "district": "Kanpur"
+        }
+    },
+    "drcId":"drc_id",
+    "drcData": "drc.timeStamp",
+    "owners": "get_owner_name(owner) for owner in drc.owners",
+    "kdaVC": "some data",
+    "date": "some data",
+    "place": "some data",
+    "day": "some data",
+    "month": "some data",
+    "year": "some data"
+}
