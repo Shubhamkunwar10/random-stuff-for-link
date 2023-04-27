@@ -1,0 +1,23 @@
+{
+    "areaSurrendered": "100",
+    "locationInfo": {
+        "khasraOrPlotNo": "123",
+        "villageOrWard": "Kalyanpur",
+        "Tehsil": "Kalyanpur",
+        "district": "Kanpur"
+    },
+    "masterPlanName": "ABC masterPlan",
+    "landUse":  "COMMERCIAL",
+    "owners": "Owners",
+    "circleRateSurrendered": "4500",
+    "FarCredited": "4500",
+    "areaType": "built",
+    "tdrType":  "None",
+    "drcId":  "KDAD0000028",
+    "kdaVC":  "Rabbit",
+    "date":  "10/4/2024",
+    "place":  "kalyanpur,Kanpur",
+    "day":  "15",
+    "month":  "april",
+    "year":  "2024"
+}
