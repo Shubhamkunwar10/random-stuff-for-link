@@ -1,14 +1,33 @@
 {
-    "nameOfLandOwner": "John Doe",
-    "address": "123 Main Street, Anytown USA",
-    "areaTobeSurrendered": "100",
-    "plotNumber": "AB-123",
-    "ward": "5",
-    "tehsil": "ABC",
-    "district": "XYZ",
-    "masterPlanName": "ABC Master Plan",
-    "date": "19-04-2023",
-    "place": "kanpur",
-    "nameOfOwner": "John Doe",
-    "attachments":["aadhaar", "sajra"]
+    "success": true,
+    "data": {
+        "context": {
+            "applicationId": "KDATA0000056",
+            "areaTobeSurrendered": 1000,
+            "plotNumber": "1278",
+            "ward": "Kalyanpur",
+            "tehsil": "Kalyanpur",
+            "district": "Kanpur",
+            "masterPlanName": "0x424456789012345678901234567890",
+            "owners": [
+                "2jw6xa",
+                "4c186",
+                "9am4p",
+                "0ysu1o"
+            ],
+            "applicantName": "2jw6xa",
+            "address": {
+                "address": "lapata ganj",
+                "city": "Mumbai",
+                "state": "gumnnaan",
+                "pincode": 934643,
+                "country": "India"
+            },
+            "date": "28/04/2023",
+            "place": "Kanpur",
+            "attachments": [
+                "aadhaar"
+            ]
+        }
+    }
 }
